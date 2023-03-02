@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\anno1800\\intermediate\\build\\win64\\unrealeditor\\inc\\anno1800\\uht\\anno1800gamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\anno1800\\intermediate\\build\\win64\\anno1800editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\anno1800\\intermediate\\build\\win64\\unrealeditor\\development\\anno1800\\definitions.anno1800.h",
+            "e:\\github\\anno1800\\source\\anno1800\\anno1800gamemodebase.h",
+            "g:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "g:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\github\\anno1800\\intermediate\\build\\win64\\unrealeditor\\inc\\anno1800\\uht\\anno1800gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

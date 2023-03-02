@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\anno1800\\intermediate\\build\\win64\\unrealeditor\\inc\\anno1800\\uht\\building.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\anno1800\\intermediate\\build\\win64\\anno1800editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\anno1800\\intermediate\\build\\win64\\unrealeditor\\development\\anno1800\\definitions.anno1800.h",
+            "e:\\github\\anno1800\\source\\anno1800\\building.h",
+            "e:\\github\\anno1800\\intermediate\\build\\win64\\unrealeditor\\inc\\anno1800\\uht\\building.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GitHub/Anno1800/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/Anno.umap",
+				"E:/GitHub/Anno1800/Content/BP_Truck.uasset",
+				"E:/GitHub/Anno1800/Content/BP_BuildingBase.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/Truck.uasset",
+				"E:/GitHub/Anno1800/Content/Truck.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/_GENERATED/trist/Box_65535D37.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/_GENERATED/trist/Box_696B5560.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/_GENERATED/trist/CSGMesh_69F84D15.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/_GENERATED/trist/Cylinder_04A218B1.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/_GENERATED/trist/Cylinder_FDC99AE8.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/_GENERATED/trist/MergedMesh_B1AB5FD2.uasset",
+				"E:/GitHub/Anno1800/Content/Levels/WorldGridMaterial.uasset"
+			]
+		}
+	]
+}
